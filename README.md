@@ -2,5 +2,4 @@
 
 Obect Oriented Programming
 
-Java FX use to build two team of robots with different color which carries a random number.
-Refree robot will decide the wining team by calculating average and show one robot of that wining team in the winner section.
+JavaFX is used to draw two teams of robots with different colors and a random number associated with them. Referee robot will decide the winning team bycalculating average and show one winning robot of that color in the winnersection.
